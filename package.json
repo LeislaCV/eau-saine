@@ -15,5 +15,8 @@
   "workspaces": [
     "src/eau_saine_backend",
     "src/eau_saine_frontend"
-  ]
+  ],
+  "dependencies": {
+    "@bundly/ic-react": "^0.4.3"
+  }
 }

@@ -3,6 +3,12 @@ body {
   font-size: 1.5rem;
 }
 
+html{
+  min-height: 100vh;
+  background: url(../images/Sensor.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
 img {
   max-width: 50vw;
   max-height: 25vw;
@@ -35,3 +41,4 @@ button[type="submit"] {
 #greeting:empty {
   display: none;
 }
+
